@@ -1,0 +1,13 @@
+export  {default as navbar}  from './navbar.vue';
+export  {default as Carousel}  from './Carousel.vue';
+export  {default as Category}  from './Category.vue';
+export  {default as Footer}  from './Footer.vue';
+export  {default as Jobs}  from './Jobs.vue';
+export  {default as Search}  from './Search.vue';
+export  {default as spinner}  from './spinner.vue';
+export  {default as Testimonial}  from './Testimonial.vue';
+export  {default as Signup}  from './auth/Signup.vue';
+export  {default as SignIn}  from './auth/Signin.vue';
+export  {default as Info}  from './profile/Info.vue';
+export  {default as Mess}  from './profile/Mess.vue';
+export  {default as Infos}  from './spec/Info.vue';
